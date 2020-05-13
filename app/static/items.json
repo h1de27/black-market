@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Katana",
+    "price": 100000000,
+    "img": "https://3.bp.blogspot.com/-S8WsBsIdmmg/WzC-sZIXDMI/AAAAAAABNEM/ZFRqjh8eUPotMPb8I13S2SAXpj3Hx5qRQCLcBGAs/s800/nihontou_youtou.png"
+  },
+  {
+    "id": 1,
+    "name": "Men",
+    "price": 200000000,
+    "img": "https://1.bp.blogspot.com/-QmGbdH6XA9s/Whu2eV2iw6I/AAAAAAABIiM/diTHIXy2Gy4zxo6VXhP-OKVo0azcT1P-ACLcBGAs/s800/omen_syoujou.png"
+  },
+  {
+    "id": 2,
+    "name": "Morning Star",
+    "price": 300000000,
+    "img": "https://3.bp.blogspot.com/-mrHWBQoMSd4/Wfg0zDPjKYI/AAAAAAABH0U/yl5mn3zsEzg6n3Xx5mTlUV41h9YD4DAcQCLcBGAs/s800/buki_morningstar_flail.png"
+  },
+  {
+    "id": 3,
+    "name": "AI",
+    "price": 400000000,
+    "img": "https://1.bp.blogspot.com/-fyYoL91_tQo/Wp0Nn-VLocI/AAAAAAABKiI/3J2ywEvlbwIhjFNsmF8qpluPOg2it_HAQCLcBGAs/s800/ai_kanabou_buki.png"
+  },
+  {
+    "id": 4,
+    "name": "Kappa",
+    "price": 500000000,
+    "img": "https://2.bp.blogspot.com/-DW7Ki-T2O_Q/VrWkc0G_E_I/AAAAAAAA30Q/uzU67T8ZpiY/s800/saiyuki_sagojou.png"
+  }
+]
